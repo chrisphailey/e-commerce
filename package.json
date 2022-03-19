@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  },
+    "scripts": {
+      "start": "nodemon server",
+      "seeds": "node seeds/index.js"
+}
+}
