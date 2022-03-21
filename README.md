@@ -3,7 +3,7 @@
 ## Description
 A back end application for an e-commerce business.  This allows the client to find, create, update and delete data regarding their products
 
-##Usage
+## Usage
 Use the following instructions to run the application:
 1. Log in to mySQL in your terminal
 2. Create the schema using the command "source db/schema.sql"
@@ -12,7 +12,7 @@ Use the following instructions to run the application:
 5. For GET and POST routes, use the api endpoints "/categories, /products, /tags"
 6. For PUT and DELETE routes, use the api endpoints "/categories/:id, /products/:id, /tags/:id"
 
-##Screenshot 
+## Screenshot 
 ![ecommerce-screenshot](./images/ecommerce-screenshot.png)
 
 URL to Walkthrough:
