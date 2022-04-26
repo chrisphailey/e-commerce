@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
 ## Description
 A back end application for an e-commerce business.  This allows the client to find, create, update and delete data regarding their products
